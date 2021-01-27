@@ -12,7 +12,7 @@ import SwiftUI
 let fruitsData: [Fruit] = [
     Fruit(
         title: "Blueberry",
-        headline: "Blueberries are sweet, nutritious and wildly popular fruit all over the world.",
+        headline: "Blueberries are a sweet, nutritious and wildly popular fruit all over the world.",
         image: "blueberry",
         gradientColors: [Color("ColorBlueberryLight"), Color("ColorBlueberryDark")],
         description: """
